@@ -15,6 +15,7 @@ module.exports = withMDX({
       'supabase.com',
       'obuldanrptloktxcffvn.supabase.co',
       'avatars.githubusercontent.com',
+      'api.producthunt.com',
     ],
   },
   async headers() {
